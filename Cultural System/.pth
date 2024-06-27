@@ -1,0 +1,2 @@
+cd /Python/Lib/site-packages
+sudo echo "/Python/lib" >.pth
